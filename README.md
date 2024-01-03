@@ -35,5 +35,6 @@ Multivariate Time Series Creation: Generates synthetic multivariate time series 
 VAR Modeling: Fits Vector Autoregression (VAR) models to multivariate time series.
 
 Forecasting with VAR: Predicts future values for multivariate time series.
-Extensions and Complex Scenarios:
+
+# Extensions and Complex Scenarios:
 The script also includes extensions showcasing advanced scenarios and techniques such as multivariate modeling, decomposition, and sophisticated forecasting methods.
